@@ -1,0 +1,13 @@
+# Test files
+test.txt
+my-private-key
+
+# SSH private keys
+*.pem
+*.key
+
+# Environment files
+.env
+
+# macOS
+.DS_Store
